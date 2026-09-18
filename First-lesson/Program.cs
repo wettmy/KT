@@ -65,7 +65,7 @@ namespace first_lesson
 
         public int Year
         {
-            get { return _year; }
+            get { return _year; } 
             private set { _year = value; }
         }
         public Car()
